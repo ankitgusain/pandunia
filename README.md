@@ -44,3 +44,5 @@ If you have more time, you can learn how to use GitHub. Create an account for yo
 
 Our contributors are listed [here](https://github.com/barumau/pandunia/graphs/contributors)
 
+# if having problem with dictionary.
+Input "pandunia" returns "# pandunia-engli" among the results. It seems it is a bug in translation of the dictionary from csv to tiddly format.
